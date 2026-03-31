@@ -1,3 +1,6 @@
 This is the second file.
 
 THIS CHANGE WAS MADE ON `MY_BRANCH`
+
+
+Changes made on a parallel branch on GitHub
